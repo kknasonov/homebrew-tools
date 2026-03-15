@@ -1,4 +1,4 @@
-# rs-wgobfs Homebrew Tap
+# Native rs-wgobfs binary for macOS on Apple Silicon.
 
 Homebrew Tap for installing [rs-wgobfs](https://github.com/infinet/rs-wgobfs), a cross-platform WireGuard obfuscator written in Rust. It is fully compatible with [xt_wgobfs](https://github.com/infinet/xt_wgobfs).
 
